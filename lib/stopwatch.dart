@@ -159,7 +159,6 @@ class myhomepage extends State<dashboard>{
               ElevatedButton(onPressed: _lap, child: Text("Lap")),
               ElevatedButton(onPressed: _clear, child: Text("Clear")),
 
-
             ],
           )),
     );
